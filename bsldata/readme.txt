@@ -1,0 +1,1 @@
+CREATE TABLE `bsl_data`.`expenses` (`sn` INT NOT NULL AUTO_INCREMENT , `date` INT NOT NULL , `catagory` VARCHAR(255) NOT NULL , `description` VARCHAR(255) NOT NULL , `amount` INT NOT NULL , PRIMARY KEY (`sn`)) ENGINE = InnoDB;

@@ -1,0 +1,62 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: poppins;
+	height: 100vh; 
+    background-color: #323437;
+    color: white;
+    
+}
+
+.Ttable{
+	border: 1px solid #000000;
+	font-family: poppins;
+	
+}
+
+th{
+	padding: 5px;
+	
+}
+
+td{
+	padding: 5px;
+	
+}
+
+.tbl_padding > td{
+	border: 1px solid #000000;
+	font-family: poppins;
+	padding: 1px;
+}
+
+.none{
+	border: none;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #e2b714;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: poppins;
+    transition: 0.2s;
+}
+
+.navbar a:hover {
+    color: #323437;
+}
+
+.padding_left{
+	padding-left: 25px;
+}
